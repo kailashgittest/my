@@ -4,7 +4,7 @@
   <img src="https://github.com/kailashgittest/my/blob/main/Map%20Image.webp?raw=true" 
        alt="Professional land surveying using total station equipment" 
        class="img-fluid rounded shadow-lg mb-4"
-       style="max-height: 500px;">
+       style="max-height: 1000px;">
 </div>
 
 ## About Our Company
