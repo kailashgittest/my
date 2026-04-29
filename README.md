@@ -1,7 +1,7 @@
 # Welcome to Geosur Solutions
 
 <div class="text-center my-5">
-  <img src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-4.0.3&w=800&h=500&fit=crop" 
+  <img src="https://github.com/kailashgittest/my/blob/main/Map%20Image.webp?raw=true" 
        alt="Professional land surveying using total station equipment" 
        class="img-fluid rounded shadow-lg mb-4"
        style="max-height: 500px;">
